@@ -1,0 +1,26 @@
+{
+  "name": "istckn",
+  "version": "1.0.0",
+  "description": "Check to see if number is a valid Turkish Identity Number | TCKN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tckn",
+    "Turkish Identity Number Checker",
+    "Vatandaslik Numarasi",
+    "validate",
+    "validation"
+  ],
+  "author": "Fikret Burak Gazioglu <burak@gazi.co> (http://gazi.co)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burakgazi/istckn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/burakgazi/istckn.git/issues"
+  },
+  "homepage": "https://github.com/burakgazi/istckn"
+}
