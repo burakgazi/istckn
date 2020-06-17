@@ -4,7 +4,8 @@
   "description": "Check to see if number is a valid Turkish Identity Number | TCKN",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/jest"
+    "test": "./node_modules/.bin/jest",
+    "coveralls": "./node_modules/.bin/jest --coverage && cat ./coverage/lcov.info | coveralls"
   },
   "keywords": [
     "tckn",
@@ -24,6 +25,7 @@
   },
   "homepage": "https://github.com/burakgazi/istckn",
   "devDependencies": {
+    "coveralls": "^3.1.0",
     "jest": "^26.0.1"
   }
 }

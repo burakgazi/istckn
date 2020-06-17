@@ -4,6 +4,8 @@
 
 [![Known Vulnerabilities](https://snyk.io/test/github/burakgazi/istckn/badge.svg)](https://snyk.io/test/github/burakgazi/istckn)
 
+[![Build Status](https://travis-ci.org/burakgazi/istckn.svg?branch=master)](https://travis-ci.org/burakgazi/istckn)
+
 [![Coverage Status](https://coveralls.io/repos/github/burakgazi/istckn/badge.svg?branch=master)](https://coveralls.io/github/burakgazi/istckn?branch=master)
 
 
